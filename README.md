@@ -140,3 +140,4 @@ python main.py --fast 10 --slow 30 --max-position 1 --max-daily-loss 10
 ## 유의사항
 
 본 프로젝트는 학습 및 연구 목적의 모의매매 시스템이며 실제 투자수익을 보장하지 않습니다.
+
